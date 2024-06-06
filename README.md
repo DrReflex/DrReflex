@@ -12,7 +12,7 @@
   </main>
 
   <footer>
-    <p>&copy; Hi solar :3.</p>
+    <p>Hi solar :3</p>
   </footer>
 </body>
 </html>
